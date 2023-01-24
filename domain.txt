@@ -1,0 +1,5 @@
+Domain1 digvpn.my.id
+Domain2 linkin.my.id
+Domain3 locufarm.my.id
+
+Jumlah 3
