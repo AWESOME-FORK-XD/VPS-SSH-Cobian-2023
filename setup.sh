@@ -78,7 +78,7 @@ ln -fs /usr/share/zoneinfo/Asia/Jakarta /etc/localtime
 #algoritmakeys="1920192019209129403940293013912" 
 #hashsuccess="$(echo -n "$Key" | sha256sum | cut -d ' ' -f 1)" 
 #Sha256Successs="$(echo -n "$hashsuccess$algoritmakeys" | sha256sum | cut -d ' ' -f 1)" 
-Kunci="$(echo -n "$Key" | sha256sum | cut -d ' ' -f 1)" 
+Kunci="$(echo -n "$Key" | sha256sum -f 1)" 
 License_Key=$Kunci
 echo ""
 echo -e "${OKEY} Successfull Connected To Server"
