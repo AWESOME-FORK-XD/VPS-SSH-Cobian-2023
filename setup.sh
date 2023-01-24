@@ -440,7 +440,7 @@ wget -q -O /usr/bin/menu-trojan "https://raw.githubusercontent.com/Locu-Locu/Cob
 #wget -q -O /usr/bin/menu-trgo "https://raw.githubusercontent.com/Locu-Locu/Cobian/main/menu-trgo.sh"
 wget -q -O /usr/bin/menu-ssh "https://raw.githubusercontent.com/Locu-Locu/Cobian/main/menu-ssh.sh"
 #wget -q -O /usr/bin/menu-bckp "https://raw.githubusercontent.com/Locu-Locu/Cobian/main/menu-bckp-telegram.sh"
-wget -q -O /usr/bin/menu-bckp "https://raw.githubusercontent.com/Locu-Locu/Cobian/main/menu-bckp-github.sh"
+wget -q -O /usr/bin/menu-bckp "https://raw.githubusercontent.com/Locu-Locu/Cobian/main/menu-bckp.sh"
 #wget -q -O /usr/bin/bckp "https://raw.githubusercontent.com/Locu-Locu/Cobian/main/bckpbot.sh"
 wget -q -O /usr/bin/usernew "https://raw.githubusercontent.com/Locu-Locu/Cobian/main/usernew.sh"
 wget -q -O /usr/bin/menu "https://raw.githubusercontent.com/Locu-Locu/Cobian/main/menu.sh"
